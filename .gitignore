@@ -10,6 +10,8 @@
 !.config/bottom/*
 !.config/bspwm/
 !.config/bspwm/*
+!.config/def/
+!.config/def/*
 !.config/dunst/
 !.config/dunst/*
 !.config/fish/
