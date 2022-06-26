@@ -1,8 +1,12 @@
+# contents of .gitignore -- works
 *
-!*/
-
-# track this file
 !.gitignore
 
-# whitelist everything in ./config/
-!config/alacritty
+!.config 
+!.config/alacritty
+!.config/alacrittiy/*
+!.config/bottom/
+!.config/bottom/*
+!.config/bspwm/
+!.config/bspwm/*
+
