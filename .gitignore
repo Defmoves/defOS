@@ -1,7 +1,8 @@
-# contents of .gitignore -- works
+# all bar .gitignore
 *
 !.gitignore
 
+# .config
 !.config 
 !.config/alacritty
 !.config/alacrittiy/*
@@ -19,4 +20,14 @@
 !.config/rofi/*
 !.config/sxhkd/
 !.config/sxhkd/*
+
+# notification apps
+!.local
+!.local/bin/
+!.local/bin/*
+
+# Wallpaper
+!Pictures
+!Pictures/wallpaper
+!Pictures/wallpaper/*
 
