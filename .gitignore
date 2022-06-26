@@ -33,3 +33,5 @@
 !Pictures/wallpaper
 !Pictures/wallpaper/*
 
+# Docs
+!README.md
