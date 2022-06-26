@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+notify-send -t 3500 -u low -i "/home/defmoves/.icons/feather/clock.svg" "$(date '+%r --- %a %e %b')"
