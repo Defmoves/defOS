@@ -9,4 +9,14 @@
 !.config/bottom/*
 !.config/bspwm/
 !.config/bspwm/*
+!.config/dunst/
+!.config/dunst/*
+!.config/fish/
+!.config/fish/*
+!.config/nvim/
+!.config/nvim/*
+!.config/rofi/
+!.config/rofi/*
+!.config/sxhkd/
+!.config/sxhkd/*
 
